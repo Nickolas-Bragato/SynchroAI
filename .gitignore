@@ -75,3 +75,4 @@ $RECYCLE.BIN/
 *.tmp
 *.bak
 *.cache
+.venv/
